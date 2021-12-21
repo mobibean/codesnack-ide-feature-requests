@@ -1,5 +1,28 @@
 # CodeSnack IDE Feature Requests
 
+**Feature request center was moved to: https://feedback.codesnack-ide.com**
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
 This repository is used to track [CodeSnack IDE](https://www.codesnack-ide.com) feature requests and discussions. Click [here](https://github.com/mobibean/codesnack-ide-feature-requests/issues/new?template=feature_request.md) to open a new feature request.
 
 Note: CodeSnack IDE bugs are tracked in the [CodeSnack IDE repo issue tracker](https://github.com/mobibean/codesnack-ide-issues/issues).
